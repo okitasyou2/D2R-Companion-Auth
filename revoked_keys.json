@@ -1,5 +1,7 @@
 {
-  "updated_at": "2026-09-15 15:26:00",
-  "revoked_machine_codes": [],
+  "updated_at": "2026-09-15 16:12:02",
+  "revoked_machine_codes": [
+    "D2R-FF75-4E8A-7F59"
+  ],
   "revoked_keys": []
 }
